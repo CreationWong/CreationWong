@@ -23,7 +23,7 @@
 
 ## 📈 **GitHub Stats**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=creationwong&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=creationwong&theme=highcontrast&hide_border=&locale=zh_Hans&short_numbers=%E7%9C%9F&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 
