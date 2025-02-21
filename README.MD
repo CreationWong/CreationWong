@@ -1,5 +1,7 @@
 # 👋 Hello I'm Creation Wong!
 
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fcreationwong&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/creationwong)
+
 ## 🛠️ **编程语言 & 工具**
 - **工具**:  
 
@@ -18,12 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-1C355E?style=for-the-badge&logo=autoit&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
-
----
-
-## 📈 **GitHub Stats**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=creationwong&theme=highcontrast&hide_border=&locale=zh_Hans&short_numbers=%E7%9C%9F&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 
