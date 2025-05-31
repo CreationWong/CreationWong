@@ -1,4 +1,4 @@
-# 👋 Hello I'm Creation Wong!
+# Hello I'm Creation Wong!
 
 一名来自中国的计算机网络技术学生.
 
