@@ -33,6 +33,10 @@
 ### 框架 & 平台
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
+### 文档 & 排版
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
+
 ### 工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
