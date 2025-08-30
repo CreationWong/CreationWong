@@ -7,7 +7,7 @@
 
 ## 编程语言 & 工具
 
-每一个会一点. 励志成为一名 **全站程序员** .
+每一个会一点. 励志成为一名 **全栈程序员** .
 
 ### Web 前端
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
