@@ -57,7 +57,5 @@ Feel free to connect for technical discussions or collaboration!
 If you appreciate my work, you can support me here:
 
 * **爱发电**: [Sponsor Link](https://afdian.com/a/creationwong)
-* **Bitcoin (BTC)**: `bc1qumj8qx4xmyf2wh6x7qd5yj7hprgtxfcyr5whu3`
-* **Ethereum (ETH)**: `0x9AC75321670f085E62B611C0011D7CBAe8483c45`
 
 ---
