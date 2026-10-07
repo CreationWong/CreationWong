@@ -60,7 +60,9 @@ Mainland China nodes may still peer with me by prior invitation or arrangement.
 ## 🌐 Find Me
 
 - **Website:** [www.creationwong.xyz](https://www.creationwong.xyz)
+- **X:** [@CreationWong](https://x.com/CreationWong)
 - **Bilibili:** [CreationWong](https://space.bilibili.com/609256988)
+- **Telegram Channel:** [@creationwong_xyz](https://t.me/creationwong_xyz)
 
 ---
 
