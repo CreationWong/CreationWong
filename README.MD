@@ -1,6 +1,6 @@
 # Hello, I'm CreationWong 👋
 
-I'm a developer and computer networking student interested in **Full-Stack Development, networking, desktop applications, automation, and system-level technologies**.
+I'm a developer and computer networking student interested in **Full-Stack Development, computer networking, desktop applications, automation, and system-level technologies**.
 
 I enjoy turning ideas into practical projects, exploring how things work under the hood, and continuously expanding my technical stack through hands-on development.
 
@@ -56,23 +56,50 @@ Currently, I'm focusing on building more complete projects and improving my skil
 
 ## 🌐 Networking
 
-I'm also interested in computer networking, routing, and Internet infrastructure.
+I'm interested in computer networking, routing protocols, autonomous systems, and Internet infrastructure.
 
 ### DN42
 
 ![DN42](https://img.shields.io/badge/DN42-AS4242422460-2F6F9F?style=for-the-badge)
 
 - **ASN:** `AS4242422460`
-- Operating and experimenting with routing inside the **DN42** network
-- Exploring **BGP**, routing policies, network topology, and distributed network infrastructure
-- Using DN42 as a practical environment for learning real-world networking concepts
+- **Primary node location:** Tokyo, Japan
+- Operating and maintaining my own network within **DN42**
+- Learning and experimenting with **BGP, routing policies, network topology, and distributed network infrastructure**
+- Using DN42 as a practical environment for understanding real-world routing and autonomous system concepts
+
+### 🤝 DN42 Peering
+
+I'm open to peering with other DN42 participants.
+
+At the moment, peering requests are accepted **only via email**.
+
+Please contact me using the **email address registered for your DN42 ASN**, and send the request to the **email address registered for my DN42 ASN (`AS4242422460`)**.
+
+Your peering request should contain only the information necessary to establish the session:
+
+- Your **DN42 ASN**
+- The necessary **WireGuard peering information**
+- Any required endpoint or link information needed to establish the connection
+
+Please avoid sending unrelated information in the peering request.
+
+Requests sent from email addresses that are not associated with the requesting DN42 ASN may not be accepted.
+
+#### Peering Policy
+
+- My current DN42 server node is located in **Tokyo, Japan**.
+- **Unsolicited peering requests from nodes located in Mainland China are not accepted.**
+- Peering with Mainland China nodes may still be established **by invitation or prior arrangement**.
+- This restriction applies to the **location of the peering node**, not the operator's nationality or identity.
+- Other peering requests are reviewed on a case-by-case basis.
 
 ---
 
 ## 🔭 What I'm Working On
 
 - Building practical **full-stack and desktop applications**
-- Exploring **computer networks, BGP, and routing technologies**
+- Exploring **computer networking, BGP, and routing technologies**
 - Maintaining and experimenting with my **DN42 network — AS4242422460**
 - Improving my experience with **React, TypeScript, Tauri, .NET, Java, and C++**
 - Developing automation tools and utilities
