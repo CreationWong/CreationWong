@@ -41,7 +41,6 @@ I enjoy building practical projects and learning technologies through hands-on e
 
 - **ASN:** `AS4242422460`
 - **Node:** Tokyo, Japan
-- Interested in **BGP, routing, and network infrastructure**
 
 ### Peering
 
